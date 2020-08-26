@@ -1,8 +1,8 @@
-## just_emacs
+# just_emacs
 
 My basic emacs configurations for python
 
-# Usage
+## Usage
 
 1. Install emacs through terminal
 sudo apt install emacs25
